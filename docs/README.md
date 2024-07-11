@@ -14,10 +14,7 @@ The Page Load Time Chrome extension monitors tab updates and displays page load 
 
 ## Installation
 
-1. Clone the repository.
-2. Open Google Chrome and navigate to `chrome://extensions/`.
-3. Enable "Developer mode" using the toggle switch in the top-right corner.
-4. Click on "Load unpacked" and select the extension directory.
+Install the extension from  https://chromewebstore.google.com/detail/page-load-time/jboepgdkcgchplagkfmgdhefadfahgda.
 
 ## Usage
 
@@ -32,7 +29,6 @@ The extension requires the following permissions:
 - **Host Permissions:** To access all URLs for monitoring and managing page load times in the toolbar.
 - **Scripting:** To execute scripts within the active tab to collect performance metrics.
 - **Storage:** To store performance data and the unique client ID locally on your device.
-- **Tabs:** To monitor tab updates and changes in their loading status for real-time update on page load times.
 
 ## Privacy Policy
 
