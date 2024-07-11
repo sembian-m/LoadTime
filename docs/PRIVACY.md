@@ -2,11 +2,11 @@
 
 ### Introduction
 
-Thank you for using our extension. We are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner. This Privacy Policy outlines how we collect, use, and safeguard your information when you use our extension.
+Thank you for using the [Page Load Time](https://chromewebstore.google.com/detail/page-load-time/jboepgdkcgchplagkfmgdhefadfahgda) extension. We are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner. This Privacy Policy outlines how we collect, use, and safeguard your information when you use our extension.
 
 ### Information We Collect
 
-Our extension collects the following types of information:
+The extension collects the following types of information:
 
 1. **Usage Data:**
    - We use Google Analytics to collect anonymous usage data such as extension views, clicks, and right-clicks to help us understand how users interact with our extension. 
@@ -14,11 +14,11 @@ Our extension collects the following types of information:
 ### How We Use Your Information
 
 1. **Usage Data:**
-   - The usage data collected through Google Analytics helps us improve the extension by analyzing how users interact with it. This includes tracking page views, clicks, and right-clicks to enhance user experience.
+   - The usage data collected through Google Analytics helps us improve the extension by analyzing how users interact with it. This includes tracking extension views, clicks, and right-clicks to enhance user experience.
 
 ### Google Analytics
 
-Our extension integrates Google Analytics to collect usage data. This involves the following steps:
+The extension integrates Google Analytics to collect usage data. This involves the following steps:
 
 1. **Client ID:**
    - We generate or retrieve a unique client ID to track user interactions anonymously. This client ID is stored locally on your device.
@@ -31,7 +31,7 @@ Our extension integrates Google Analytics to collect usage data. This involves t
 
 ### Permissions
 
-Our extension requires the following permissions:
+The extension requires the following permissions:
 
 1. **Host Permissions:**
    - To access all URLs for monitoring and managing page load times in the toolbar.
@@ -45,7 +45,7 @@ Our extension requires the following permissions:
 
 ### Data Sharing
 
- Google Analytics uses cookies and other tracking technologies to collect and analyze information about the use of our extension. For more information about how Google handles your data, please refer to Google's Privacy Policy: https://policies.google.com/privacy.
+ Google Analytics uses cookies and other tracking technologies to collect and analyze information about the use of the extension. For more information about how Google handles your data, please refer to Google's Privacy Policy: https://policies.google.com/privacy.
 
 ### Data Security
 
