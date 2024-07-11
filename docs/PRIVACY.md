@@ -42,8 +42,6 @@ Our extension requires the following permissions:
 3. **Storage:**
    - To store the unique client ID locally on your device.
    
-4. **Tabs:**
-   - To monitor tab updates and changes in their loading status for real-time feedback on page load times.
 
 ## Data Sharing
 
