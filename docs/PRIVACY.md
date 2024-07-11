@@ -1,22 +1,22 @@
 # Privacy Policy
 
-## Introduction
+### Introduction
 
 Thank you for using our extension. We are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner. This Privacy Policy outlines how we collect, use, and safeguard your information when you use our extension.
 
-## Information We Collect
+### Information We Collect
 
 Our extension collects the following types of information:
 
 1. **Usage Data:**
    - We use Google Analytics to collect anonymous usage data such as extension views, clicks, and right-clicks to help us understand how users interact with our extension. 
 
-## How We Use Your Information
+### How We Use Your Information
 
 1. **Usage Data:**
    - The usage data collected through Google Analytics helps us improve the extension by analyzing how users interact with it. This includes tracking page views, clicks, and right-clicks to enhance user experience.
 
-## Google Analytics
+### Google Analytics
 
 Our extension integrates Google Analytics to collect usage data. This involves the following steps:
 
@@ -29,7 +29,7 @@ Our extension integrates Google Analytics to collect usage data. This involves t
 3. **Data Transmission:**
    - The events are sent to Google Analytics using a secure fetch request. The data collected is used for analytics purposes only and is not shared with any third parties.
 
-## Permissions
+### Permissions
 
 Our extension requires the following permissions:
 
@@ -43,19 +43,22 @@ Our extension requires the following permissions:
    - To store the unique client ID locally on your device.
    
 
-## Data Sharing
+### Data Sharing
 
  Google Analytics uses cookies and other tracking technologies to collect and analyze information about the use of our extension. For more information about how Google handles your data, please refer to Google's Privacy Policy: https://policies.google.com/privacy.
 
-## Data Security
+### Data Security
 
 We take data security seriously and implement measures to protect your information from unauthorized access, alteration, disclosure, or destruction. The data collected by our extension is anonymized and used solely for improving the user experience.
 
 
-## Changes to This Privacy Policy
+### Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. Any changes will be posted on this page, and we encourage you to review this policy periodically.
 
-## Contact Us
+### Contact Us
 
 If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at [sembian.m@gmail.com](mailto:sembian.m@gmail.com).
+
+
+***
