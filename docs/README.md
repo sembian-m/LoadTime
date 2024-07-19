@@ -9,7 +9,7 @@ The Page Load Time Chrome extension monitors tab updates and displays page load 
 - Displays page load times in the toolbar badge.
 - Provides a detailed breakdown of the Page Load Time using Navigation Timings.
 - Stores performance data in session storage for use in the extension.
-- Tracks and reports user interactions (page views, clicks, right-clicks) using Google Analytics.
+- Tracks and reports extension's popup page loads using Google Analytics.
 
 
 ## Installation
