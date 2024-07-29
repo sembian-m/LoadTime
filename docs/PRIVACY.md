@@ -8,7 +8,7 @@ We use Google Analytics to collect the extension's page load data to help us und
 
 ### Data Sharing
 
-We do not share the statistics collected by "Page Load Time" with any third parties. For more information about how Google handles this data, please refer to Google’s Privacy Policy: [https://policies.google.com/privacy](https://policies.google.com/privacy).
+We do not share the statistics collected by "Page Load Time" with any third parties. For more information about how Google handles this data, please refer to Google’s [Privacy Policy](https://policies.google.com/privacy).
 
 ### Data Security
 
