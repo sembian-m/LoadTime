@@ -37,9 +37,8 @@ Please refer to the [Privacy Policy](PRIVACY.md) for details on how we collect, 
 
 ## License
 
-This project is licensed under the Apache License, Version 2.0. See the [LICENSE](LICENSE) file and [NOTICE](NOTICE) file for details.
+This project is licensed under Page Load Time Extension License (Version 1.0). See the [LICENSE](LICENSE) file and [NOTICE](NOTICE) file for details.
 
 ## Contact
 
 If you have any questions or concerns, please contact us at [sembian.m.dev@gmail.com](mailto:sembian.m.dev@gmail.com).
-
