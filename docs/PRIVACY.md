@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-We are committed to protecting your privacy and ensuring that any data handled by the [Page Load Time](https://chromewebstore.google.com/detail/page-load-time/jboepgdkcgchplagkfmgdhefadfahgda) extension is managed in a safe and responsible manner. This Privacy Policy outlines our practices regarding data collection, usage, and safeguarding.
+We are committed to protecting your privacy and ensuring that any data handled by the [Load Time](https://chromewebstore.google.com/detail/page-load-time/jboepgdkcgchplagkfmgdhefadfahgda) extension is managed in a safe and responsible manner. This Privacy Policy outlines our practices regarding data collection, usage, and safeguarding.
 
 ### Data Collection
 
@@ -8,7 +8,7 @@ We do not collect any personal data from users. We use Google Analytics solely t
 
 ### Data Sharing
 
-We do not share the statistics collected by "Page Load Time" with any third parties. For more information about how Google handles this data, please refer to Google’s [Privacy Policy](https://policies.google.com/privacy).
+We do not share the statistics collected by "Load Time" with any third parties. For more information about how Google handles this data, please refer to Google’s [Privacy Policy](https://policies.google.com/privacy).
 
 ### Data Security
 

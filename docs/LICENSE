@@ -1,23 +1,23 @@
-            Page Load Time Extension License (Version 1.0)
-                    Copyright © 2023-2025 Sembian Mani
+            Load Time Extension License (Version 1.0)
+                Copyright © 2023-2025 Sembian Mani
 
     TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
-    1. Definitions.
-       (a) "Extension" refers to the Page Load Time 
+    1. DEFINITIONS.
+       (a) "Extension" refers to the Load Time 
            Extension provided under this License.
        (b) "Licensor" refers to Sembian Mani, the owner
            and distributor of the Extension.
        (c) "You" or "Your" refers to the individual or
            entity using the Extension.
 
-    2. Grant of License.
+    2. GRANT OF LICENSE.
        Subject to the terms of this License, you are
        granted a non-exclusive, non-transferable license
        to use the Extension for personal or internal
        business purposes.
 
-    3. Restrictions.
+    3. RESTRICTIONS.
        You agree not to:
        (a) Copy, distribute, or make the Extension
            available to others, except as expressly
@@ -31,7 +31,7 @@
        (d) Remove or alter any proprietary notices or
            labels on the Extension.
 
-    4. Future Features and Updates.
+    4. FUTURE FEATURES AND UPDATES.
        (a) Paid Features: The Licensor reserves the right
            to introduce paid features or services at a
            future date. Continued use of such features may
@@ -42,20 +42,23 @@
            will be subject to the terms of this License
            unless explicitly stated otherwise.
 
-    5. Ownership.
+    5. OWNERSHIP.
        All rights, title, and interest in and to the
        Extension, including all intellectual property
        rights, are and shall remain the exclusive property
-       of the Licensor.
+       of the Licensor. For additional attributions and 
+       notices related to third-party components, please 
+       refer to the NOTICE file included with this 
+       distribution.
 
-    6. Trademarks.
+    6. TRADEMARKS.
        This License does not grant permission to use the
        trade names, trademarks, service marks, or product
        names of the Licensor, except as required for
        reasonable and customary use in describing the
        origin of the Extension.
 
-    7. Disclaimer of Warranties.
+    7. DISCLAIMER OF WARRANTIES.
        The Extension is provided "as is," without warranty
        of any kind, express or implied, including but not
        limited to the warranties of merchantability,
@@ -64,7 +67,7 @@
        the Extension will meet your requirements or be
        uninterrupted or error-free.
 
-    8. Limitation of Liability.
+    8. LIMITATION OF LIABILITY.
        In no event shall the Licensor be liable for any
        direct, indirect, incidental, special, or
        consequential damages arising out of or in
@@ -72,7 +75,7 @@
        Extension, even if the Licensor has been advised of
        the possibility of such damages.
 
-    9. Termination.
+    9. TERMINATION.
        This License is effective until terminated. Your
        rights under this License will terminate
        automatically without notice if you fail to comply
@@ -80,19 +83,19 @@
        cease all use of the Extension and destroy all
        copies of it.
 
-    10. Governing Law.
+    10. GOVERNING LAW.
         This License shall be governed by and construed in
         accordance with the laws of the State of
         California, USA, without regard to its conflict of
         law principles.
 
-    11. Entire Agreement.
+    11. ENTIRE AGREEMENT.
         This License constitutes the entire agreement
         between you and the Licensor regarding the use of
         the Extension and supersedes all prior agreements
         or understandings, whether written or oral.
 
-    12. Contact Information.
+    12. CONTACT INFORMATION.
         For questions about this License, please contact:
         Email: sembian.m.dev@gmail.com
 
