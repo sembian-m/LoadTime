@@ -1,0 +1,32 @@
+====================================================================================
+    NOTICE FILE FOR USE WITH THE Load Time Extension License (Version 1.0)
+====================================================================================
+
+This file contains legal notices and attributions for the Load Time Extension.
+
+1. COPYRIGHT
+   Copyright © 2023-2025 Sembian Mani
+
+   This product includes software originally developed by Sembian Mani 
+   (sembian.m.dev@gmail.com).
+
+2. LICENSE
+   Load Time Extension License (Version 1.0)
+
+   This software is licensed under the Load Time Extension License 
+   (Version 1.0). You may obtain a copy of the License in the 
+   LICENSE file located in the root directory of this project.
+
+3. ATTRIBUTIONS
+   This extension uses Apache ECharts, which is licensed under the 
+   Apache License, Version 2.0. The following notice is included as 
+   required by the Apache License:
+
+   Apache ECharts
+   Copyright 2017-2024 The Apache Software Foundation
+
+   This product includes software developed at The Apache Software 
+   Foundation (https://www.apache.org/).
+
+For questions regarding the use of this extension, please contact:
+Email: sembian.m.dev@gmail.com
