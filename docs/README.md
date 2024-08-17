@@ -37,7 +37,7 @@ Please refer to the [Privacy Policy](PRIVACY.md) for details on how we collect, 
 
 ## License
 
-This project is licensed under Load Time Extension License (Version 1.0). See the [LICENSE](LICENSE) file and [NOTICE](NOTICE) file for details.
+This project is licensed under Load Time Extension License (Version 1.0). See the [LICENSE](LICENSE.txt) file and [NOTICE](NOTICE.txt) file for details.
 
 ## Contact
 

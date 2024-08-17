@@ -15,7 +15,7 @@ This file contains legal notices and attributions for the Load Time Extension.
 
    This software is licensed under the Load Time Extension License 
    (Version 1.0). You may obtain a copy of the License in the 
-   LICENSE file located in the root directory of this project.
+   LICENSE.txt file located in the root directory of this project.
 
 3. ATTRIBUTIONS
    This extension uses Apache ECharts, which is licensed under the 
