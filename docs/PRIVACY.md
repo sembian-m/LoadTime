@@ -14,19 +14,6 @@ We do not share the statistics collected by "Load Time" with any third parties. 
 
 We are committed to data security and rely on Google Analytics to handle the data securely. The data collected by the extension is anonymized and used solely for improving the user experience.
 
-### Permissions
-
-Here is how the extension uses its permissions:
-
-1. **Host Permissions:**
-   To access URLs for monitoring and managing page load times in the toolbar.
-   
-2. **Scripting:**
-   To execute a function within the tab to collect performance metrics.
-   
-3. **Storage:**
-   To store the unique client ID locally for anonymous tracking by Google Analytics.
-
 ### Changes to this Privacy Policy
 
 We may update this Privacy Policy from time to time. Any changes will be posted on this page, and we encourage you to review this policy periodically.
