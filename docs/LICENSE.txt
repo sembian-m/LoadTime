@@ -17,6 +17,17 @@
        License, you are granted a non-exclusive, 
        non-transferable license to use the Extension 
        for personal or internal business purposes.
+       Reproduction or modification of the Extension is 
+       not permitted (details covered in Section 3).
+
+       Note: This License supersedes any previous licenses 
+       or terms that governed earlier versions of the 
+       Extension. If you previously downloaded or used 
+       the Extension under a different license, your 
+       continued use of the Extension is subject to this 
+       License. Any reproduction, distribution, or use of 
+       the Extension under terms from prior licenses is 
+       not permitted. 
 
     3. RESTRICTIONS.
        You agree not to:
