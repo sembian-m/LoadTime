@@ -28,7 +28,7 @@ The extension requires the following permissions:
 
 - **Host Permissions:** To access all URLs for monitoring and managing page load times in the toolbar.
 - **Scripting:** To execute scripts within the active tab to collect performance metrics.
-- **Storage:** To store performance data and the unique client ID locally on your device.
+- **Storage:** To store performance data locally on your device.
 
 ## Privacy Policy
 
