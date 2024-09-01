@@ -18,6 +18,10 @@ We are committed to data security and rely on Google Analytics to handle the dat
 
 We may update this Privacy Policy from time to time. Any changes will be posted on this page, and we encourage you to review this policy periodically.
 
+### License
+
+This extension is licensed under the Load Time Extension License (Version 1.0). For more information, please refer to the [LICENSE](LICENSE.txt) and [NOTICE](NOTICE.txt) files.
+
 ### Contact Us
 
 If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at [sembian.m.dev@gmail.com](mailto:sembian.m.dev@gmail.com).
