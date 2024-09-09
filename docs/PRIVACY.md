@@ -24,7 +24,7 @@ This extension is licensed under the Load Time Extension License (Version 1.0). 
 
 ### Contact Us
 
-If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at [loadtime.dev@gmail.com](mailto:loadtime.dev@gmail.com)
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at [loadtime.dev@gmail.com](mailto:loadtime.dev@gmail.com).
 
 
 ***
