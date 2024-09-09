@@ -109,6 +109,6 @@
 
     12. CONTACT INFORMATION.
         For questions about this License, please contact:
-        Email: sembian.m.dev@gmail.com
+        Email: loadtime.dev@gmail.com
 
     END OF TERMS AND CONDITIONS

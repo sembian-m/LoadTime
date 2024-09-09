@@ -29,4 +29,4 @@ This file contains legal notices and attributions for the Load Time Extension.
    Foundation (https://www.apache.org/).
 
 For questions regarding the use of this extension, please contact:
-Email: sembian.m.dev@gmail.com
+Email: loadtime.dev@gmail.com

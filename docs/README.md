@@ -41,4 +41,4 @@ This project is licensed under Load Time Extension License (Version 1.0). See th
 
 ## Contact
 
-If you have any questions or concerns, please contact us at [sembian.m.dev@gmail.com](mailto:sembian.m.dev@gmail.com).
+If you have any questions or concerns, please contact us at [loadtime.dev@gmail.com](mailto:loadtime.dev@gmail.com).
