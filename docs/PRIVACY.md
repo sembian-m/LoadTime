@@ -4,15 +4,16 @@ We are committed to protecting your privacy and ensuring that any data handled b
 
 ### Data Collection
 
-We do not collect any personal data from users. We use Google Analytics solely to log the page load events of the extension's popup. This helps us understand traffic patterns and improve the user experience. All data collected is anonymized to ensure your privacy. We do not track or store any information that could be used to identify individual users.
+We do not collect any personal data from users. Users' browsing activities remain completely private, and we do not track or store any information that could identify individual users. 
+To analyze extension performance, we rely on Google Analytics enabled within the Chrome Developer Console, without any separate integration in the extension code. For more information on how Google handles privacy, please refer to Google’s [Privacy Policy](https://policies.google.com/privacy).
 
 ### Data Sharing
 
-We do not share the statistics collected by "Load Time" with any third parties. For more information about how Google handles this data, please refer to Google’s [Privacy Policy](https://policies.google.com/privacy).
+No personal data is collected or shared with third parties.
 
 ### Data Security
 
-We are committed to data security and rely on Google Analytics to handle the data securely. The data collected by the extension is anonymized and used solely for improving the user experience.
+Since the extension does not collect or store any personal data, we do not anticipate any security concerns related to personal data.
 
 ### Changes to this Privacy Policy
 
